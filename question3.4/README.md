@@ -25,10 +25,10 @@ $\sphericalangle \xi \sim N(0, 1)$ и $\eta = a + \sigma\xi$
     
     $M_\eta = M[a + \sigma\xi] = M[a] + M[\sigma\xi] = a$
     
-3. $D_\xi = \Huge\int\limits_{-\infty}^\infty x^2\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = \begin{bmatrix} x = u, & dx = du \\ -xe^{-\frac{x^2}{2}}dx = dv, & v = e^{-\frac{x^2}{2}} \end{bmatrix} $
+3. $D_\xi = \Huge\int\limits_{-\infty}^\infty x^2\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}dx = \begin{bmatrix} x = u, & dx = du \\ -xe^{-\frac{x^2}{2}}dx = dv, & v = e^{-\frac{x^2}{2}} \end{bmatrix}$
 = $\Huge\frac{1}{\sqrt{2\pi}} (\left.xe^{-\Huge\frac{x^2}{2}}\right|_{\infty}^\infty$ -  
-- $ \Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx)$
-= $ \Huge\frac{1}{\sqrt{2\pi}}\Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx = 1$ (интеграл от плотности = 1)
+- $\Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx)$
+= $\Huge\frac{1}{\sqrt{2\pi}}\Huge\int\limits_{-\infty}^\infty e^{-\frac{x^2}{2}}dx = 1$ (интеграл от плотности = 1)
     
     $D_\eta = D[a + \sigma\xi] = \sigma^2 D_\xi = \sigma ^ 2$
     
