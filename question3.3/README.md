@@ -36,7 +36,7 @@ $$P(x) = \begin{cases} \lambda e^{-\lambda x}, \quad x \geq 0 \\
 0,  \quad  x < 0
 \end{cases} $$
 
-тогда  $P(\xi < x + t| \xi > t) = e^{-\lambda x} $ при всех  $x \geq $ и  $t \geq 0$
+тогда  $P(\xi < x + t| \xi > t) = e^{-\lambda x}$ при всех  $x \geq$ и  $t \geq 0$
 
 Это равенство и есть ***характеристическое свойство показательного распределения*** и означает оно следующее:
 
